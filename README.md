@@ -24,8 +24,8 @@ function Example (){
     <div>
       <div>state: {state}</div>
       <div>result: {result || ''}</div>
-      <button onClick={() => setPromsie(new Promise(resolve => setTimeout(() => resolve('hello'), 10000)))>start</button> 
-      <button onClick={() => setPromise(null)>cancel</button> 
+      <button onClick={() => setPromsie(new Promise(resolve => setTimeout(() => resolve('hello'), 10000)))}>start</button> 
+      <button onClick={() => setPromise(null)}>cancel</button> 
     </div>
   )
 }
