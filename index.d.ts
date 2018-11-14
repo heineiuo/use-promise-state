@@ -1,0 +1,1 @@
+export default function usePromiseState(initPromise:Promise<any>):any[]

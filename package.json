@@ -1,0 +1,17 @@
+{
+  "name": "use-promise-state",
+  "version": "0.0.1",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "repository": "https://github.com/heineiuo/use-promise-state",
+  "author": "heineiuo <heineiuo@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
+  }
+}
